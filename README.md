@@ -69,7 +69,7 @@ endmodule
 ![Experiment 9](https://github.com/user-attachments/assets/219bdd8f-e246-4e9e-a1a9-f508023f453f)
 
 
-**TIMING DIGRAM FOR T-FLIPFLOP**
+**TIMING DIAGRAM FOR T-FLIPFLOP**
 
 ![WhatsApp Image 2024-12-20 at 8 40 11 AM](https://github.com/user-attachments/assets/3e4389f2-197f-4f3b-8ed8-514e85ee2d62)
 
